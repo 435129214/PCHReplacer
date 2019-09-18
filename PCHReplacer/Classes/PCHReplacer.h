@@ -60,3 +60,8 @@
 #endif
 
 #endif
+
+//----------------------手机类型----------------------
+#ifndef IS_IPAD
+#define IS_IPAD ( [ [ [ UIDevice currentDevice ] model ] isEqualToString: @"iPad" ] ||  [ [ [ UIDevice currentDevice ] model ] isEqualToString: @"iPad Simulator" ])
+#endif
