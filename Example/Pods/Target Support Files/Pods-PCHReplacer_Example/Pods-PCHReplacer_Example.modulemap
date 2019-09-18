@@ -1,0 +1,6 @@
+framework module Pods_PCHReplacer_Example {
+  umbrella header "Pods-PCHReplacer_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

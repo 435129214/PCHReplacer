@@ -1,0 +1,16 @@
+PODS:
+  - PCHReplacer (0.1.0)
+
+DEPENDENCIES:
+  - PCHReplacer (from `../`)
+
+EXTERNAL SOURCES:
+  PCHReplacer:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PCHReplacer: 226ebf90d1e4bf9969b2ee86f8a8b4115197312a
+
+PODFILE CHECKSUM: a6f726bc801fee6729c599f78ecc656321aa5253
+
+COCOAPODS: 1.7.5

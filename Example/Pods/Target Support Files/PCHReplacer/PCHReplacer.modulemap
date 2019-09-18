@@ -1,0 +1,6 @@
+framework module PCHReplacer {
+  umbrella header "PCHReplacer-umbrella.h"
+
+  export *
+  module * { export * }
+}
